@@ -2,6 +2,6 @@
 
 
 ## Run in terminal: $ python3 ContinuousGesturePredictor.py
-### *use python 3.7 or less.
+### *use python 3.7 or less.(not compatible for python 2.7)
 
 
